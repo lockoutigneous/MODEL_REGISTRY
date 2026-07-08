@@ -1,0 +1,16 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test reports
+test-reports/
+
+# Dependencies and builds
+venv/
+.venv/
+.env
+.env.local
+```
